@@ -1,11 +1,10 @@
 [github]
-	user = craiglittle
+	user = kpandya91
 [hub]
-	protocol = https
+	protocol = ssh
 [user]
-	name  = Craig Little
-	email = craiglttl@gmail.com
-	signingkey = DD278018
+	name  = Kumar Pandya
+	email = kumar.pandya91@gmail.com
 [alias]
 	a    = add
 	amd  = commit --amend --no-edit
